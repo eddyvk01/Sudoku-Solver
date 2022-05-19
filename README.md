@@ -86,7 +86,7 @@ PLEASE FEEL FREE TO FORK THE PROJECT AND START CONTRIBUTING. :)
 =======================================
 (Press the number of your choice!)
 ```
-PESSING THE '1' TO START THE GAME: 
+PRESSING THE '1' TO START THE GAME: 
 ```
 =============== SUDOKU ================
           SELECT A DIFFICULTY
