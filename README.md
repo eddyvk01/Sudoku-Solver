@@ -137,7 +137,7 @@ In your preferred editor, make sure indentation is set to "4 spaces".
 
 ---
 
-## Run using Python3.8+
+## Run using DevC++
 1. Clone or download repositiory: https://github.com/eddyvk01/Sudoku-Solver.git
 2. In source folder, run `Sudoku_end.exe` to start program, optionally, run with `--help` argument to see other runtime options.
  
